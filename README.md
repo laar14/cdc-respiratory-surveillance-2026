@@ -95,5 +95,6 @@ python scripts/analyze_respiratory_data.py
 ## 👤 Author & Contact
 
 **Data Analyst / Health Data Scientist**  
-- Portfolio: [GitHub Profile]([https://github.com/laar14])  
-- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/liyerpt/])
+[GitHub Profile](https://github.com/laar14)
+[LinkedIn Profile](https://www.linkedin.com/in/liyerpt/)
+
